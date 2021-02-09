@@ -1,0 +1,26 @@
+{
+  "name": "github-graph-hack",
+  "version": "1.0.0",
+  "description": "Hacking github commit graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbsanjU/Github-Graph-Hack.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "IbsanjU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbsanjU/Github-Graph-Hack/issues"
+  },
+  "homepage": "https://github.com/IbsanjU/Github-Graph-Hack#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1"
+  }
+}
